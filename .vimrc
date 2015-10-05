@@ -7,6 +7,7 @@ set incsearch "搜索实时更新
 set cindent "自动缩进
 set smartindent
 set expandtab "expand each tab to 4 space
+set cc=80
 set nu
 set nocp
 filetype plugin on
